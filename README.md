@@ -17,6 +17,7 @@
 <img src="https://skillicons.dev/icons?i=aws,bash,c,cs,cpp,css,discord,bots,express,figma,git,github,githubactions,gitlab,heroku,html,js,jest,linux,mongodb,netlify,nextjs,nodejs,postgres,postman,powershell,py,react,mysql,stackoverflow,styledcomponents,tailwind,twitter,ts,unity,v,vercel,vim,vite,waswebpack,workers&perline=8&theme=dark" />
 </p>
 
+[![An image of @mausumi134's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mausumi134)](https://holopin.io/@mausumi134)
 <p align="center"> <img align="center" src="https://github-readme-stats-sync.vercel.app/api?username=mausumi134&count_private=true&show_icons=true&theme=radical&border_radius=10" alt="mausumi134" /></p>
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mausumi134&theme=dracula&hide_border=true" alt="mausumi134" /></p>
 <p align="center"> Show some ❤️ by starring some of the repositories!.<p>
