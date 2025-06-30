@@ -6,10 +6,14 @@
 </p>
 
 <h2 align="center">Hey, I'm Mausumi 👩‍💻</h2>
-<h4 align="center" style="color:gray;">just a failure finding a way to win.</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/just%20a%20failure%20finding%20a%20way%20to%20win.-6b21a8?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</p>
+
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64F4AC&center=true&vCenter=true&width=435&lines=Backend+dev+on+a+mission...;Building+Discord+bots+at+2AM;Open-source+curious+and+keyboard+friendly!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64F4AC&center=true&vCenter=true&width=435&lines=Backend+dev+on+a+mission...;Open-source+curious+and+keyboard+friendly!" alt="Typing SVG" />
 </p>
 
 <p align="center">
