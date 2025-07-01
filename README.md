@@ -34,7 +34,7 @@
   <a href="https://github.com/Mausumi134">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/imausumi8093">
+  <a href="https://www.hackerrank.com/profile/iangel8093">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Mausumighadei/">
