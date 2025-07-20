@@ -6,9 +6,7 @@
 </p>
 
 <h2 align="center">Hey, I'm Mausumi 👩‍💻</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/just%20a%20failure%20finding%20a%20way%20to%20win.-6b21a8?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</p>
+
 
 
 
